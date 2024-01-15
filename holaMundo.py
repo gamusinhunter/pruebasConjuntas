@@ -16,3 +16,7 @@ class Perro:
 # print(mi_perro2.nombre)
 mi_perro = Perro('Rodrigo', 2)
 mi_perro.habla()
+
+nombre = input("¿como se llama el payaso?")
+
+print(f"el payaso se llama {nombre}")
