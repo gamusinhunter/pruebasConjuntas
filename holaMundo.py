@@ -20,5 +20,3 @@ mi_perro.habla()
 nombre = input("¿como se llama el payaso?: ")
 
 print(f"el payaso se llama {nombre}")
-
-print("rodrigo el ping pongs")
